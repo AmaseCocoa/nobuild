@@ -1,7 +1,7 @@
 [project]
 name = "nobuild"
-version = "0.1.0"
-description = "Make Debian-Based Distro without VM"
+version = "0.1.2"
+description = "Distribution-independent custom image creation framework, inspired by FascodeNetwork 'LUBS-U'"
 authors = [
     {name = "AmaseCocoa", email = "amase.cocoa@gmail.com"},
 ]
